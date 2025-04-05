@@ -24,7 +24,7 @@ const Dashboard = () => {
       <div>
         <h2 className="text-3xl font-bold tracking-tight">Dashboard</h2>
         <p className="text-muted-foreground">
-          Welcome back! Here's your productivity and wellness summary.
+          Welcome back! Here's your productivity and fitness summary.
         </p>
       </div>
       

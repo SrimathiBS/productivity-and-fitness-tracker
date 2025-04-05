@@ -7,7 +7,7 @@ const Progress = () => {
       <div>
         <h2 className="text-3xl font-bold tracking-tight">Progress</h2>
         <p className="text-muted-foreground">
-          Track your long-term productivity and wellness journey.
+          Track your long-term productivity and fitness journey.
         </p>
       </div>
       

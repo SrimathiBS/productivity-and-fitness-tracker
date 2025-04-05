@@ -7,7 +7,7 @@ const Analytics = () => {
       <div>
         <h2 className="text-3xl font-bold tracking-tight">Analytics</h2>
         <p className="text-muted-foreground">
-          Detailed analysis of your productivity and wellness data.
+          Detailed analysis of your productivity and fitness data.
         </p>
       </div>
       
